@@ -1,0 +1,4 @@
+with open('C:\Users\Suyash Singh\Desktop\Python Data Analytics\Homework\Pi.txt') as file_obj:
+    content = file_obj.read()
+
+print(content.strip())

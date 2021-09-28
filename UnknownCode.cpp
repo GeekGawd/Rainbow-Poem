@@ -2,11 +2,16 @@
 
 using namespace std;
 
+
 int main()
-{
-    int a;
+{ 
+    int x;
+    x= x +1;
+    cout<<x<<endl;
 
-    a = 23456;
 
-    cout<<a<<endl;
 }
+
+
+
+
